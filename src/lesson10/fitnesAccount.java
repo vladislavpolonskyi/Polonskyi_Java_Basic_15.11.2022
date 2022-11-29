@@ -2,7 +2,7 @@ package lesson10;
 
 public class fitnesAccount {
     public static void main(String[] args) {
-// acount//
+// account//
         new fitnessTracker("Vlad", "Prokopenko", 31, 12, 1999,
                 "vlad_prok@gmail.com", "0784726283",
                 "120/80", 90, 11000).printAccountInfo();
@@ -18,7 +18,7 @@ public class fitnesAccount {
         fitnessTracker olga = new fitnessTracker("Olga", "Sokolova", 17, 10, 2010,
                 "olga_sok@gmail.com", "0992134586",
                 "130/75", 50, 2000);
-
+//finish account //
 
         kristina.setSurname("Tytarenko");
         kristina.setPressure("130/90");
