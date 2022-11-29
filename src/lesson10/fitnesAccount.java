@@ -19,7 +19,7 @@ public class fitnesAccount {
                 "olga_sok@gmail.com", "0992134586",
                 "130/75", 50, 2000);
 //finish account //
-
+        //finish//
         kristina.setSurname("Tytarenko");
         kristina.setPressure("130/90");
         kristina.setSteps(6000);
