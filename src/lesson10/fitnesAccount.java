@@ -2,7 +2,7 @@ package lesson10;
 
 public class fitnesAccount {
     public static void main(String[] args) {
-
+// acount//
         new fitnessTracker("Vlad", "Prokopenko", 31, 12, 1999,
                 "vlad_prok@gmail.com", "0784726283",
                 "120/80", 90, 11000).printAccountInfo();
